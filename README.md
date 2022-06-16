@@ -1,4 +1,5 @@
-### Hi there 👋
+![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
+### My name is Kalvin Karl 👋
 
 <!--
 **kalvinkarlnonato/kalvinkarlnonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
