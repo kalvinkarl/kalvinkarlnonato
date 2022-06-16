@@ -1,4 +1,4 @@
--![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/assets/img/GithubBanner.png)
+-![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/assets/img/GithubBanner.png?raw=true)
 ### My name is Kalvin Karl 👋
 
 <!--
