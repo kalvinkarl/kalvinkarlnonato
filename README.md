@@ -1,4 +1,4 @@
-<img src="https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png" width="100%">
+![Banner]("https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
 ### My name is Kalvin Karl 👋
 
 <!--
