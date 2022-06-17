@@ -27,7 +27,7 @@
 <h3 align="left">languages and tools:</h3>
 <p align="left">
 
-<code><a target="_blank" rel="noreferrer" href="https://azure.microsoft.com/en-in/"> <img alt="azure" width="40" height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/></a></code>
+<code><a target="_blank" rel="noreferrer" href="https://visualstudio.microsoft.com/"> <img alt="azure" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://getbootstrap.com"><img alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://www.cprogramming.com/"><img alt="c" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cpp/"><img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
