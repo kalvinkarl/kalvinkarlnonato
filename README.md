@@ -1,7 +1,7 @@
 ![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
 <h1 align="center">👋 Hello! I'm Kalvin Karl</h1>
 <p align="center">
-    <a href="https://www.twitter.com/mokkapps">
+    <a href="https://www.facebook.com/kalvinkarl28">
         <img src="https://img.shields.io/badge/facebook-%230057B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>
     <a href="www.linkedin.com/in/kalvinkarlnonato">
