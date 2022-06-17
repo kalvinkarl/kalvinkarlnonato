@@ -4,7 +4,7 @@
     <a href="https://www.facebook.com/kalvinkarl28">
         <img src="https://img.shields.io/badge/facebook-%230057B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>
-    <a href="www.linkedin.com/in/kalvinkarlnonato">
+    <a href="https://linkedin.com/in/kalvinkarlnonato">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
     <a href="https://twitter.com/KalvinKarl28">
