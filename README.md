@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a>
 </p>
+
 - 🔭 Building windows desktop application [Student listing](https://github.com/kalvinkarlnonato/StudentChecklistSystem)
 - 👨‍💻 Learning **C# with .NET Core | React | MongoDB | AngularJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
@@ -18,4 +19,5 @@
 - 📫 How to reach me **kalvinkarl28@gmail.com**
 - 🧘‍♂️ **Learning Life: To live the best life possible**
 - ⚡ Fun fact: **I :heart: :dog:s | Steam Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+
 -------
