@@ -19,7 +19,7 @@
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
 - 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com**
-- 🧘‍♂️ **Learning Life: To live the best life possible**
+- 🧘‍♂️ **Learn continuesly, Never stop learning**
 - ⚡ Fun fact: **I :heart: :dog:s | Steam Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
 
 -------
