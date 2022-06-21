@@ -50,7 +50,6 @@
 
 -------
 <p align="center">
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [![kalvinkarl28's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/kalvinkarlnonato/github-readme-stats)
 
