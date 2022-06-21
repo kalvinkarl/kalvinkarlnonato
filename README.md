@@ -50,4 +50,4 @@
 
 -------
 ![kalvinkarl28's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-![kalvinkarl28's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvinkarlnonato&show_icons=true&theme=blueberry&bg_color=00000000&text_color=777)
+![kalvinkarl28's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvinkarlnonato&show_icons=true&theme=blueberry&bg_color=00000000&text_color=777&hide_border=true)
