@@ -1,7 +1,7 @@
 ![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
-    <a href="https://www.twitter.com/mokkapps">
+    <a href="https://www.facebook.com/kalvinkarl28">
         <img src="https://img.shields.io/badge/facebook-%230057B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>
     <a href="https://www.linkedin.com/in/kalvinkarlnonato">
@@ -12,15 +12,16 @@
     </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
 
-- 🔭 Building windows desktop application [Student listing](https://github.com/kalvinkarlnonato/StudentChecklistSystem)
+- 🔭 Currently building windows desktop application [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem)
 - 👨‍💻 Learning **C# with .NET Core | React | MongoDB | AngularJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
 - 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
-- ⚡ Fun fact: **I :heart: :dog:s | Steam Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+- ⚡ Fun fact: **I :heart: :dog:s | Dota 2 Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
 
 -------
 
@@ -48,5 +49,5 @@
 </p>
 
 -------
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![kalvinkarl28's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![kalvinkarl28's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvinkarlnonato&show_icons=true&theme=blueberry&bg_color=00000000&text_color=777&hide_border=true)
