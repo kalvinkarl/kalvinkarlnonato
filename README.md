@@ -39,7 +39,16 @@
 <code><a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://www.mongodb.com/"><img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://nodejs.org"><img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.adobe.com/products/xd.html"><img alt="xd" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/></a></code>
+<code>
+    <a target="_blank" rel="noreferrer" href="https://www.adobe.com/products/xd.html">
+        <img alt="xd" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
+    </a>
+</code>
+<code>
+    <a target="_blank" rel="noreferrer" href="https://www.serverless.com">
+        <img alt="xd" width="40" height="40" src="https://www.serverless.com/blog/serverless-workaround-cloudformation-200-resource-limit"/>
+    </a>
+</code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
