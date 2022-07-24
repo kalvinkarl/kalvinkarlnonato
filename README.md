@@ -15,7 +15,7 @@
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
 
-- 🔭 Currently building windows desktop application [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem) | [Applicant Tracking](https://github.com/kalvinkarlnonato/ApplicantTrackingWebsite)
+- 🔭 Currently building [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem) | [Applicant Tracking](https://github.com/kalvinkarlnonato/ApplicantTrackingWebsite)
 - 👨‍💻 Learning **C# with .NET Core | React | MongoDB | AngularJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
 - 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
