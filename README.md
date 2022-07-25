@@ -1,5 +1,5 @@
 <p align="center">TRY TO [DARKMODE](https://github.com/settings/appearance)</p>
-![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
+[![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
     <a href="https://www.facebook.com/kalvinkarl28">
