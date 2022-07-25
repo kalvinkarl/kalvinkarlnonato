@@ -21,7 +21,7 @@
 - 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
-- ⚡ Fun fact: **I :heart: :dog:s | Dota 2 Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+- ⚡ Fun fact: **I :heart: :dog:s | Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
 
 -------
 
