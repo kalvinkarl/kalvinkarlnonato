@@ -19,7 +19,7 @@
 - 🔭 Currently building [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem) | [Applicant Tracking](https://github.com/kalvinkarlnonato/ApplicantTrackingWebsite)
 - 👨‍💻 Learning **C# with .NET Core | React | MongoDB | AngularJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
-- 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
+- 💬 Ask me about **Web Developer MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
 - ⚡ Fun fact: **I :heart: :dog:s | Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
