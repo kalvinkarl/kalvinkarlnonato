@@ -2,60 +2,137 @@
 <p align="center">TRY TO ME ON <a target="_blank" href="https://github.com/settings/appearance">DARKMODE</a></p>
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
-    <a href="https://www.facebook.com/kalvinkarl28">
-        <img src="https://img.shields.io/badge/facebook-%230057B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
-    </a>
-    <a href="https://www.linkedin.com/in/kalvinkarlnonato">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a>
-    <a href="https://twitter.com/KalvinKarl28">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-    </a>
+	<a href="https://www.facebook.com/kalvinkarl28">
+		<img src="https://img.shields.io/badge/facebook-%230057B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
+	</a>
+	<a href="https://www.linkedin.com/in/kalvinkarlnonato">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+	</a>
+	<a href="https://twitter.com/KalvinKarl28">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+	</a>
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
 
-- 🔭 Currently building [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem) | [Applicant Tracking](https://github.com/kalvinkarlnonato/ApplicantTrackingWebsite)
-- 👨‍💻 Learning **C# with .NET Core | Ionic**
+- 🔭 Currently building [Veterinary system]() | [Applicant Tracking]()
+- 👨‍💻 Learning **C# with .NET Core | React**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
 - 💬 Ask me about **Web Developer MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
-- ⚡ Fun fact: **I :heart: :dog:s | Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+- ⚡ Fun fact: **I :heart: :dog:s | :camera:s | :video_game:s** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
 
 -------
 
 <h3 align="left">languages and tools:</h3>
 <p align="left">
-
-<code><a target="_blank" rel="noreferrer" href="https://visualstudio.microsoft.com/"> <img alt="azure" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://getbootstrap.com"><img alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.cprogramming.com/"><img alt="c" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cpp/"><img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.w3schools.com/css/"><img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.adobe.com/ph_en/products/photoshop.html/"><img alt="figma" width="40" height="40" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://git-scm.com/"><img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.w3.org/html/"><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.mongodb.com/"><img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://nodejs.org"><img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a></code>
-<code>
-    <a target="_blank" rel="noreferrer" href="https://www.adobe.com/products/xd.html">
-        <img alt="xd" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
-    </a>
-</code>
-<code>
-    <a target="_blank" rel="noreferrer" href="https://www.serverless.com">
-        <img alt="sl" width="40" height="40" src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png"/>
-    </a>
-</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.mongodb.com">
+			<img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://expressjs.com">
+			<img alt="express" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://angular.io">
+			<img alt="angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://nodejs.org">
+			<img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+			<img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+			<img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://getbootstrap.com">
+			<img alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
+		</a>
+    </code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://sass-lang.com">
+			<img alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://mui.com">
+			<img alt="materialui" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://devdocs.io/javascript">
+			<img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.typescriptlang.org">
+			<img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://visualstudio.microsoft.com">
+			<img alt="visualstudio" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://docs.microsoft.com/en-us/dotnet/csharp">
+			<img alt="csharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://cplusplus.com">
+			<img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://reactjs.org">
+            <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.serverless.com">
+			<img alt="serverless" width="40" height="40" src="https://www.svgrepo.com/show/354334/serverless.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.postgresql.org">
+			<img alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://www.mysql.com">
+            <img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+		</a>
+	</code>
+    <code>
+		<a target="_blank" rel="noreferrer" href="https://firebase.google.com">
+            <img alt="firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://git-scm.com">
+			<img alt="git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.adobe.com/ph_en/products/photoshop/landpa.html">
+			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+		</a>
+	</code>
 </p>
 
 -------
