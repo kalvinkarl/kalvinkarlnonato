@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ![banner](Banner/Banner.png)
+=======
+![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
+<p align="center">TRY TO ME ON <a target="_blank" href="https://github.com/settings/appearance">DARKMODE</a></p>
+>>>>>>> bc794b08c7abdd213d6307afc5fafca21ac7e5e2
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
     <a href="https://www.facebook.com/kalvinkarl28">
@@ -15,13 +20,13 @@
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
 
-- 🔭 Currently building windows desktop application [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem)
-- 👨‍💻 Learning **C# with .NET Core | React | MongoDB | AngularJS**
+- 🔭 Currently building [Veterinary system](https://github.com/kalvinkarlnonato/VeterinaryClinicManagementSystem) | [Applicant Tracking](https://github.com/kalvinkarlnonato/ApplicantTrackingWebsite)
+- 👨‍💻 Learning **C# with .NET Core | Ionic**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
-- 💬 Ask me about **Web Development MEAN stack | C# .Net Core**
-- 📫 How to reach me **kalvinkarl28@gmail.com**
+- 💬 Ask me about **Web Developer MEAN stack | C# .Net Core**
+- 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
-- ⚡ Fun fact: **I :heart: :dog:s | Dota 2 Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+- ⚡ Fun fact: **I :heart: :dog:s | Gaming** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
 
 -------
 
@@ -39,7 +44,16 @@
 <code><a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://www.mongodb.com/"><img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a></code>
 <code><a target="_blank" rel="noreferrer" href="https://nodejs.org"><img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a></code>
-<code><a target="_blank" rel="noreferrer" href="https://www.adobe.com/products/xd.html"><img alt="xd" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/></a></code>
+<code>
+    <a target="_blank" rel="noreferrer" href="https://www.adobe.com/products/xd.html">
+        <img alt="xd" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
+    </a>
+</code>
+<code>
+    <a target="_blank" rel="noreferrer" href="https://www.serverless.com">
+        <img alt="sl" width="40" height="40" src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png"/>
+    </a>
+</code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
