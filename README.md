@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ![banner](Banner/Banner.png)
-=======
-![banner](https://github.com/kalvinkarlnonato/kalvinkarlnonato/blob/main/Banner/Banner.png)
 <p align="center">TRY TO ME ON <a target="_blank" href="https://github.com/settings/appearance">DARKMODE</a></p>
->>>>>>> bc794b08c7abdd213d6307afc5fafca21ac7e5e2
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
     <a href="https://www.facebook.com/kalvinkarl28">
