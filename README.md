@@ -17,7 +17,7 @@
 -------
 
 - 🔭 Currently building [Veterinary system]() | [Applicant Tracking]()
-- 👨‍💻 Learning **C# with .NET Core | React**
+- 👨‍💻 Learning **NestJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
 - 💬 Ask me about **Web Developer MEAN stack | C# .Net Core**
 - 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
@@ -46,6 +46,16 @@
 	<code>
 		<a target="_blank" rel="noreferrer" href="https://nodejs.org">
 			<img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://git-scm.com">
+			<img alt="git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+		</a>
+	</code>
+	<code>
+		<a target="_blank" rel="noreferrer" href="https://www.adobe.com/ph_en/products/photoshop/landpa.html">
+			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
 		</a>
 	</code>
 	<code>
@@ -124,13 +134,8 @@
 		</a>
 	</code>
 	<code>
-		<a target="_blank" rel="noreferrer" href="https://git-scm.com">
-			<img alt="git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-		</a>
-	</code>
-	<code>
-		<a target="_blank" rel="noreferrer" href="https://www.adobe.com/ph_en/products/photoshop/landpa.html">
-			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+		<a target="_blank" rel="noreferrer" href="https://nestjs.com">
+			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
 		</a>
 	</code>
 </p>
