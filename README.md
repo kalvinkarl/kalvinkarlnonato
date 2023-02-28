@@ -29,116 +29,116 @@
 
 <h3 align="left">languages and tools:</h3>
 <p align="left">
-	<code>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.mongodb.com">
 			<img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://expressjs.com">
 			<img alt="express" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://angular.io">
 			<img alt="angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://nodejs.org">
 			<img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://git-scm.com">
 			<img alt="git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.adobe.com/ph_en/products/photoshop/landpa.html">
 			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
 			<img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 			<img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://getbootstrap.com">
 			<img alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
 		</a>
-    </code>
-    <code>
+    </span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://sass-lang.com">
 			<img alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://mui.com">
 			<img alt="materialui" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://devdocs.io/javascript">
 			<img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.typescriptlang.org">
 			<img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://visualstudio.microsoft.com">
 			<img alt="visualstudio" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://docs.microsoft.com/en-us/dotnet/csharp">
 			<img alt="csharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://cplusplus.com">
 			<img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://reactjs.org">
             <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.serverless.com">
 			<img alt="serverless" width="40" height="40" src="https://www.svgrepo.com/show/354334/serverless.svg"/>
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.postgresql.org">
 			<img alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://www.mysql.com">
             <img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 		</a>
-	</code>
-    <code>
+	</span>
+    <span>
 		<a target="_blank" rel="noreferrer" href="https://firebase.google.com">
             <img alt="firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 		</a>
-	</code>
-	<code>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://nestjs.com">
 			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
 		</a>
-	</code>
+	</span>
 </p>
 
 -------
