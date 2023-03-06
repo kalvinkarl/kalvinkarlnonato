@@ -15,7 +15,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-
 - 🔭 Currently building [Applicant Tracking]() | [MDB Reader]() | [Inspection and Accounting System]()
 - 📉 Teaching **App Development** | **Introduction to computer** | **Java OOP**
 - 👨‍💻 Learning **NestJS**
@@ -24,11 +23,9 @@
 - 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
 - ⚡ Fun fact: **I :heart: :dog:s | :camera:s | :video_game:s** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
-
 -------
-
 ### Spotify playing 🎧
-[![Spotify](https://novatorem-roan-ten.vercel.app/api/spotify)](https://open.spotify.com/user/pcarwfvsi3ecxvbjcd331ud11)
+[![Spotify](https://novatorem-j5jwcqkwo-kalvinkarlnonato.vercel.app/api/spotify)](https://open.spotify.com/user/pcarwfvsi3ecxvbjcd331ud11)
 -------
 ### languages and tools:
 <p align="left">
