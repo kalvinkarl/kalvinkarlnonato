@@ -1,4 +1,4 @@
-![banner](Banner/Banner.png)
+![banner](Banner/GithubBanner.png)
 <p align="center">TRY TO ME ON <a target="_blank" href="https://github.com/settings/appearance">DARKMODE</a></p>
 <h2 align="center">👋 Hello! I'm Kalvin Karl.</h2>
 <p align="center">
