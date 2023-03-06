@@ -27,7 +27,10 @@
 
 -------
 
-<h3 align="left">languages and tools:</h3>
+### Spotify playing 🎧
+[![Spotify](https://novatorem-roan-ten.vercel.app/api/spotify)](https://open.spotify.com/user/pcarwfvsi3ecxvbjcd331ud11)
+-------
+### languages and tools:
 <p align="left">
 	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.mongodb.com">
@@ -119,19 +122,19 @@
 			<img alt="serverless" width="40" height="40" src="https://www.svgrepo.com/show/354334/serverless.svg"/>
 		</a>
 	</span>
-	<span>
-		<a target="_blank" rel="noreferrer" href="https://www.postgresql.org">
-			<img alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-		</a>
-	</span>
-    <span>
+  <span>
 		<a target="_blank" rel="noreferrer" href="https://www.mysql.com">
             <img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 		</a>
 	</span>
-    <span>
+  <span>
 		<a target="_blank" rel="noreferrer" href="https://firebase.google.com">
             <img alt="firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+		</a>
+	</span>
+  <span>
+		<a target="_blank" rel="noreferrer" href="https://www.docker.com">
+            <img alt="docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 		</a>
 	</span>
 	<span>
