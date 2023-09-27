@@ -15,7 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-- 🔭 Currently building [Attendance Monitoring System]() | [Employee Information System]()
+- 🔭 Currently building [Employee Information System]() | [Examination Management System](https://github.com/kalvinkarlnonato/examination-management-system)
 - 📉 Teaching **App Development** | **Introduction to computer** | **Java OOP**
 - 👨‍💻 Learning **NestJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
