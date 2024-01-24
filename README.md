@@ -139,6 +139,16 @@
 			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
 		</a>
 	</span>
+	<span>
+		<a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/windows/apps/winui/">
+			<img alt="maui" width="40" height="40" src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png"/>
+		</a>
+	</span>
+	<span>
+		<a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-8.0">
+			<img alt="window ui 3" width="40" height="40" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/10/shadow.png"/>
+		</a>
+	</span>
 </p>
 
 -------
