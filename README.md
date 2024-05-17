@@ -15,7 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-- 🔭 Currently building [Student Information System](https://github.com/kalvinkarlnonato/StudentInformationSystem) | [Employee Information System]() | [Examination Management System](https://github.com/kalvinkarlnonato/examination-management-system)
+- 🔭 Currently building [Employee Information System]() | [Examination Management System](https://github.com/kalvinkarlnonato/examination-management-system) | [Campus Billing System](https://github.com/kalvinkarlnonato/campus-billing-system)
 - 📉 Teaching **App Development** | **Introduction to computer** | **Java OOP**
 - 👨‍💻 Learning **NestJS**
 - 🤝 Looking to collaborate on **Desktop development and Web Development**
@@ -153,4 +153,4 @@
 
 -------
 ![kalvinkarl28's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kalvinkarl28&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-![kalvinkarl28's GitHub stats](https://github-readme-stats-git-master-kalvinkarlnonato.vercel.app/api?username=kalvinkarlnonato&show_icons=true&theme=blueberry&bg_color=00000000&text_color=777&hide_border=true)
+[comment]: <> (![kalvinkarl28's GitHub stats](https://github-readme-stats-git-master-kalvinkarlnonato.vercel.app/api?username=kalvinkarlnonato&show_icons=true&theme=blueberry&bg_color=00000000&text_color=777&hide_border=true))
