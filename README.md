@@ -15,14 +15,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/cfd9c50e-5767-4e6f-b4f0-ae0bab880956.svg)](https://wakatime.com/@cfd9c50e-5767-4e6f-b4f0-ae0bab880956)
 -------
-- 🔭 Currently building [Employee Information System]() | [Examination Management System](https://github.com/kalvinkarlnonato/examination-management-system) | [Campus Billing System](https://github.com/kalvinkarlnonato/campus-billing-system)
-- 📉 Teaching **App Development** | **Web development** | **C# OOP**
-- 👨‍💻 Learning **kubernetes**
-- 🤝 Looking to collaborate on **Desktop development and Web Development**
-- 💬 Ask me about **Web Developer MEAN stack | C# .Net Core**
-- 📫 How to reach me **kalvinkarl28@gmail.com** | SMART **+639984283333**
+- 🔭 Currently building [Campus Enrollment System](https://github.com/kalvinkarl/campus-enrollment-system) | [Examination Management System](https://github.com/kalvinkarl/examination-management-system) | [Campus Billing System](https://github.com/kalvinkarl/campus-billing-system)
+- 📉 Teaching **Mobile development** | **Web development** | **C# development**
+- 👨‍💻 Learning **docker**
+- 🤝 Looking to collaborate on **Web Development and Desktop development**
+- 💬 Ask me about **App Developement MEAN stack with API (CICD) (Serverless) (Web/Mobile) | C# .Net Core (Desktop/Mobile)**
+- 📫 How to reach me **admin@kalvinkarl.com** | SMART **+639984283333** | GLOBE **+639277035244**
 - 🧘‍♂️ Learn continuesly **Never stop learning**
-- ⚡ Fun fact: **I :heart: :dog:s | :camera:s | :video_game:s** (GamerTag: [YOLO Gamer](https://steamcommunity.com/id/kalvinkarlnonato/))
+- ⚡ Fun fact: **I :heart: :dog:s | :camera:s | :video_game:s** (GamerTag: [YOLO](https://steamcommunity.com/id/kalvinkarlnonato/))
 -------
 ### Spotify playing 🎧
 [![Spotify](https://novatorem-j5jwcqkwo-kalvinkarlnonato.vercel.app/api/spotify)](https://open.spotify.com/user/pcarwfvsi3ecxvbjcd331ud11)
@@ -34,12 +34,12 @@
 			<img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 		</a>
 	</span>
-    <span>
+   	<span>
 		<a target="_blank" rel="noreferrer" href="https://expressjs.com">
 			<img alt="express" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
 		</a>
 	</span>
-    <span>
+    	<span>
 		<a target="_blank" rel="noreferrer" href="https://angular.io">
 			<img alt="angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
 		</a>
@@ -73,13 +73,13 @@
 		<a target="_blank" rel="noreferrer" href="https://getbootstrap.com">
 			<img alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
 		</a>
-    </span>
-    <span>
+	</span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://sass-lang.com">
 			<img alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
 		</a>
 	</span>
-    <span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://mui.com">
 			<img alt="materialui" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
 		</a>
@@ -109,7 +109,7 @@
 			<img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 		</a>
 	</span>
-    <span>
+	<span>
 		<a target="_blank" rel="noreferrer" href="https://reactjs.org">
             <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 		</a>
@@ -119,24 +119,19 @@
 			<img alt="serverless" width="40" height="40" src="https://www.svgrepo.com/show/354334/serverless.svg"/>
 		</a>
 	</span>
-  <span>
+  	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.mysql.com">
             <img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 		</a>
 	</span>
-  <span>
+  	<span>
 		<a target="_blank" rel="noreferrer" href="https://firebase.google.com">
             <img alt="firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 		</a>
 	</span>
-  <span>
+  	<span>
 		<a target="_blank" rel="noreferrer" href="https://www.docker.com">
             <img alt="docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-		</a>
-	</span>
-	<span>
-		<a target="_blank" rel="noreferrer" href="https://nestjs.com">
-			<img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
 		</a>
 	</span>
 	<span>
